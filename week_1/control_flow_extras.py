@@ -29,3 +29,11 @@ if right == "Awesome" and left == "Apalling":
     print("on point")
 else:
     print("No no")
+
+letter_one = "A"
+letter_two = "B"
+
+if letter_one == letter_two:
+    print("tactics")
+else:
+    print("antis")
